@@ -1,0 +1,9 @@
+{
+  "pubName": "r2gapi_flutter_sdk",
+  "pubVersion": "1.0.0",
+  "pubAuthor": "ride2go GmbH & Tristan Marsell",
+  "pubAuthorEmail": "tm@ride2go.com",
+  "pubDescription": "Ride2Go API SDK for Flutter. Built with Dio.",
+  "dateLibrary" : "core",
+  "nullableFields" : true
+}
